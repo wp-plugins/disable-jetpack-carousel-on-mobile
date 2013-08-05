@@ -2,8 +2,8 @@
 Contributors: stevengliebe, churchthemes
 Tags: jetpack, carousel, lightbox, gallery, disable, mobile
 Requires at least: 3.5
-Tested up to: 3.5.1
-Stable tag: 1.0
+Tested up to: 3.6
+Stable tag: trunk
 License: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Disables Jetpack Carousel on mobile devices.
@@ -26,5 +26,4 @@ No configuration is necessary. Just install then activate and Carousel will be d
 
 == Changelog ==
 
-= 1.0 =
-* First release
+See [release tags](https://github.com/stevengliebe/disable-carousel-mobile/tags) on GitHub.
